@@ -3,9 +3,9 @@ A slight variation of 0xTiger [Amogify](https://github.com/0xTiger/amogify) that
 
 ## Example usage:
 ```
-python amogify.py --input input/test.jpg
+python amongify.py --input input/test.jpg
 
-usage: amogify.py [-h] --input INPUT [--output OUTPUT] [--density DENSITY] [--visor VISOR] [--weight WEIGHT] [--flip FLIP] [--resize RESIZE] [--show]
+usage: amongify.py [-h] --input INPUT [--output OUTPUT] [--density DENSITY] [--visor VISOR] [--weight WEIGHT] [--flip FLIP] [--resize RESIZE] [--show]
 ```
 
 
